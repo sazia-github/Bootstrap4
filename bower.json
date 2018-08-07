@@ -1,0 +1,24 @@
+{
+  "name": "Bootstrap4",
+  "authors": [
+    "sazia-github <sazia.github@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/sazia-github/Bootstrap4",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "popper.js": "^1.14.4",
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.2.0"
+  }
+}
